@@ -76,11 +76,10 @@ h1.article-heading {
 section {
 	text-decoration: underline;
 	width: 495px;
-
 }
 
 p {
-	display: inline;
+	line-height: 30px;
 }
 
 #live-chat-box {
