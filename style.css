@@ -52,7 +52,6 @@ nav {
 	text-align: right;
 	border-top: 5px dashed black;
 	font-size: 1.1em;
-	kerning: 100px;
 	padding-top: 10px;
 	word-spacing: 40px;
 
@@ -61,6 +60,7 @@ nav {
 a {
 	color: orange;
 	padding: 5px;
+	text-decoration: none;
 }
 
 a:hover {
